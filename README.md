@@ -31,7 +31,7 @@ To perform measurements on the Evaluation Modules there is an Evaluation Module 
 Design files of the Modular Breadboard will be added shortly as they are in the process of being converted from Altium Designer to KiCad 6.
 
 ## TMTC Simulator
-To control the Modular Breadboard with all its Evaluation Modules, we are using the so called TMTC Simulator. This equipment consists of a Raspberrry Pi signle board computer with 4 USB analog data acquisition boards and one USB digital IO board.
+To control the Modular Breadboard with all its Evaluation Modules, we are using the so called TMTC Simulator. This equipment consists of a Raspberrry Pi single board computer with 4 USB analog data acquisition boards and one USB digital IO board.
 
 ![TMTC_Simulator_Block_Diagram.svg](./doc/TMTC_Simulator_Block_Diagram.svg)
 
