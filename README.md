@@ -3,7 +3,9 @@ This is the accompaning repository to the ISTS 2022 paper "Demonstration of Effi
 
 ## Evaluation Module
 The Evaluation Module is a 90mm x 23mm module used at DLR Institute of Space Systems to streamline the power controller development process. It can be used stand-alone for functional and performance testing of mostly single-function circuits, but also together with the Modular Breadboard setup to form fully functional power controller prototypes.
+
 ![Evaluation_Module_Example.png](./doc\Evaluation_Module_Example.png)
+
 You find here the KiCad 6 template of the Evaluation Module Formfactor. To use it simple copy the folder to your KiCad 6 template folder and use the dialog "New Project from Template..." dialog.
 
 Following signals are assumed to be routed to the headers:
