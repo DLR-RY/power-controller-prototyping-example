@@ -25,7 +25,7 @@ Following signals are assumed to be routed to the headers:
 | VSECx+ | Secondary Voltage Supply positive |
 | VSECx- | Secondary Voltage Supply negative |
 
-To perform measurements on the Evaluation Modules there is an Evaluation Module Measurement Adapter board, that breaks out the pin headers to banana jacks or srew terminals for the input and output, and to pin headers or srew terminals for the measurement and control signals.
+To perform measurements on the Evaluation Modules there is an Evaluation Module Measurement Adapter board, that breaks out the pin headers to banana jacks or screw terminals for the input and output, and to pin headers or screw terminals for the measurement and control signals.
 
 ## Modular Breadboard
 You can find here the KiCad design files for the Modular Breadboard and the Breakout Board. Please be aware that prototypes of the boards based on the KiCad files have not been produced and tested yet. The hardware demonstrated in the paper is based on a previous version made with Altium Designer.
